@@ -1,0 +1,12 @@
+name: test_to_trash
+title: test_to_trash
+username:
+account: cloudstudio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 979075
+bundleId: 2150024
+url: https://cloudstudio.shinyapps.io/test_to_trash/
+when: 1560390324.56175
+asMultiple: FALSE
+asStatic: FALSE
